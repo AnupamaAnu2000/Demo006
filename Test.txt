@@ -1,2 +1,3 @@
 first git develop line
 second line in features
+new line added
